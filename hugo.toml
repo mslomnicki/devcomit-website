@@ -1,11 +1,12 @@
 baseURL = 'https://devcomit.slomnicki.net/'
 languageCode = 'en-us'
-title = 'Devcomit - DevOps Solutions'
+title = 'DEVCOMIT'
 theme = 'ananke'
+pluralizeListTitles = false
 
 [params]
-description = "Devcomit specializes in providing DevOps solutions tailored to your needs."
-author = "Devcomit Team"
+description = "DEVCOMIT specializes in providing DevOps, IT and electronics related solutions tailored to your needs."
+author = "DEVCOMIT Team"
 
 [menu]
 [[menu.main]]
