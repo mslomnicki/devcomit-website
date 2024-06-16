@@ -6,7 +6,7 @@ pluralizeListTitles = false
 
 [params]
 description = "DEVCOMIT specializes in providing DevOps, IT and electronics related solutions tailored to your needs."
-author = "DEVCOMIT Team"
+author = "Marek"
 
 [menu]
 [[menu.main]]
