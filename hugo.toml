@@ -1,0 +1,42 @@
+baseURL = 'https://devcomit.slomnicki.net/'
+languageCode = 'en-us'
+title = 'Devcomit - DevOps Solutions'
+theme = 'ananke'
+
+[params]
+description = "Devcomit specializes in providing DevOps solutions tailored to your needs."
+author = "Devcomit Team"
+
+[menu]
+[[menu.main]]
+name = "Home"
+weight = 1
+identifier = "home"
+url = "/"
+
+[[menu.main]]
+name = "About"
+weight = 2
+identifier = "about"
+url = "/about/"
+
+[[menu.main]]
+name = "Services"
+weight = 3
+identifier = "services"
+url = "/services/"
+
+[[menu.main]]
+name = "Team"
+weight = 4
+identifier = "team"
+url = "/team/"
+
+[[menu.main]]
+name = "Blog"
+weight = 5
+identifier = "blog"
+url = "/blog/"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
